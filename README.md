@@ -26,5 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="40" />
 </p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=ST10247982
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ST10247982)](https://git.io/streak-stats)
 

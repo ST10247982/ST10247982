@@ -25,5 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="40" />
 </p>
-[GitHub Streak](https://streak-stats.demolab.com/?user=ST10247982)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ST10247982&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 
